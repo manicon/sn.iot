@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Thing Type" max_length="40" name="x_dghw_sn_iot_thing_type" type="collection">
+        <element label="Attributes" max_length="800" name="attributes" type="data_structure"/>
+        <element label="Description" max_length="512" name="description" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

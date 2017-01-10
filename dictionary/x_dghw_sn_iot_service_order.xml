@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sm_order" label="IoT Service Order" max_length="40" name="x_dghw_sn_iot_service_order" type="collection"/>
+</database>
